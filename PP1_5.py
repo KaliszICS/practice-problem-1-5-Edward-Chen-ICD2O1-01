@@ -9,7 +9,8 @@ def q1():
 def q2():
   #Write Assignment code here
   num1= input("Input a number: ")
-  num1
+  num1= float(num1) + 4
+  print(f"Your number is + 2: {num1 + 2} ")
 
 def q3():
   #Write Assignment code here
