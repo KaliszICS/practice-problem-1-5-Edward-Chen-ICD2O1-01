@@ -34,9 +34,9 @@ def q4():
 
 def q5():
   #Write Assignment code here
-  user_input = input("Input an integer: ")
-  number = int(user_input)
-  result = number + 5
+  num = input("Input an integer: ")
+  num1 = int(user_input)
+  result = num1 + 5
   print(f"Your number + 5 is {result}")
 
 
