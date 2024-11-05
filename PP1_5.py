@@ -35,7 +35,7 @@ def q4():
 def q5():
   #Write Assignment code here
   num = input("Input an integer: ")
-  num1 = int(user_input)
+  num1 = int(num)
   result = num1 + 5
   print(f"Your number + 5 is {result}")
 
